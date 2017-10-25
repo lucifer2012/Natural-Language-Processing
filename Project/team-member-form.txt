@@ -1,0 +1,27 @@
+Please choose one of the options below and fill in the requested
+information: 
+
+--------------------------------------------------------------
+A) I would like a specific person to be my teammate:
+
+   YOUR NAME: 
+   TEAMMATE'S NAME: 
+   DO YOU HAVE A PREFERRED NAME FOR YOUR TEAM?
+--------------------------------------------------------------
+
+or 
+
+--------------------------------------------------------------
+B) I would like to have a teammate assigned to me. 
+
+   YOUR NAME: 
+   DO YOU PREFER PROGRAMMING IN PYTHON, JAVA, OR ARE BOTH OK?
+--------------------------------------------------------------
+
+It is fine for a CS-5340 student and CS-6340 student to be teammates!
+
+If you choose option B, we will do our best to pair people up who have
+a compatible programming language preference, but we can't guarantee
+that this will be possible.
+
+
